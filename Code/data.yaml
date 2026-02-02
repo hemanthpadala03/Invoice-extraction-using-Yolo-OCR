@@ -1,0 +1,10 @@
+path: C:/Drive_d/Python/F-AI/T7/Input
+
+train: images/train
+val: images/val
+
+names:
+  0: logo
+  1: header_block
+  2: table
+  3: total_block
